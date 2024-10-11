@@ -12,5 +12,5 @@ jobs:
       - name: Publish
         uses: cloudflare/wrangler-action@v3
         with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          apiToken: ${{ secrets.xHimEd7sM7pDwv2WRKZu7R3zWs1urXHHwMmgIA8h }}
+          accountId: ${{ secrets.5e9d7b140c40cb777d7c06df325ed36e }}
